@@ -2,6 +2,8 @@
 
 		Steganography 
 
-Steganography is used by hackers
+Steganography is used by hackers and they use encryption
 
 Steghide 
+
+
